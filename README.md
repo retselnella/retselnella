@@ -1,6 +1,6 @@
-# Lester Allen
+# About Me:
 **`Crypto/Forex Enthusiast and Web Developer (on the making)`**
-
+TBD
 TBD
 
 
