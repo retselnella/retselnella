@@ -2,15 +2,11 @@
 **`Crypto/Forex Enthusiast and Web Developer (on the making)`**
 
 I'm interested in Crypto and Forex trading
-  
+
+<h1 align="center">Skillset</h1> 
 <p align="center">
- #Skillset
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,py,php" />
-  </a>
- ##🌱 I’m currently learning:
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react" />
   </a>
 </p>
 <!--
