@@ -1,5 +1,15 @@
-### Hi there 👋
+# Lester Allen
+**'Crypto Enthusiast'**
 
+I'm an crypto enthusiast and web developer on the making
+
+ [![🌱 I’m currently learning](https://skillicons.dev/icons?i=cs,js,react,vue,&perline=3)](https://skillicons.dev)
+  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,py,php" />
+  </a>
+</p>
 <!--
 **retselnella/retselnella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
