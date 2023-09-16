@@ -1,13 +1,16 @@
 # Lester Allen
-**'Crypto Enthusiast'**
+**`Crypto/Forex Enthusiast and Web Developer (on the making)`**
 
-I'm an crypto enthusiast and web developer on the making
-
- [![🌱 I’m currently learning](https://skillicons.dev/icons?i=cs,js,react,vue,&perline=3)](https://skillicons.dev)
+I'm interested in Crypto and Forex trading
   
 <p align="center">
+ #Skillset
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,py,php" />
+  </a>
+ ##🌱 I’m currently learning:
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react" />
   </a>
 </p>
 <!--
