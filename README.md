@@ -1,14 +1,8 @@
 # Lester Allen
 **`Crypto/Forex Enthusiast and Web Developer (on the making)`**
 
-I'm interested in Crypto and Forex trading
 
-<h1 align="center">Skillset</h1> 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,py,php" />
-  </a>
-</p>
+
 <!--
 **retselnella/retselnella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
