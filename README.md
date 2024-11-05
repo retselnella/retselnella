@@ -11,12 +11,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=retselnella&style=flat-square&color=blue" alt=""/>
-</div>
-
-
-
 # 💫 About Me:
 I am a Lester Allen Cabucos from Cebu, Philippines
 - 🔭 I'm working as a Backend Developer Intern
