@@ -11,14 +11,6 @@
   </a>
 </div>
 
-# 💫 About Me:
-I am a Lester Allen Cabucos from Cebu, Philippines
-- 🔭 I'm working as a Backend Developer Intern
-- 🌱 Exploring Backend and Trading 📈
-- ⚡ In my free time, I read manhwas often time watch tutorials and listen to music
-
-
-
 <p align="center">
   <b>Skills</b>
 </p> 
